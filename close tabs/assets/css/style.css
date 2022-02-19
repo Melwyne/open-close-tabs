@@ -1,0 +1,9 @@
+.displayNone{
+    display: none;
+}
+span{
+    cursor: pointer;
+}
+.modal > span{
+    background-color: red;
+}
